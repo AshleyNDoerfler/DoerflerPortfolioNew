@@ -9,13 +9,13 @@ body {
   text-align: center;
 	margin: 0 auto;  
   width: 940px;
-  background-color: rgb(255, 240, 219)
+  //background-color: rgb(133, 133, 133)
 }
 
 /* TODO: Add property:value pairs to set the color
 of the h1 element and make its text centered. Look at the index.html to see what the h1 element creates on the page*/
 h1 {
-  color:rgb(97, 63, 13);
+  //color:rgb(97, 63, 13);
   text-align: center;
 
 }
@@ -23,7 +23,7 @@ h1 {
 /* TODO: Add property:value pairs to set the color
 of the h3 element and make its text centered. Look at the index.html to see what the h3 element creates on the page*/
 h3 {
-  color:rgb(163, 67, 2);
+  //color:rgb(163, 67, 2);
   text-align: center;
 
 }
@@ -33,8 +33,8 @@ header {
 	margin: 50px auto;
   width: 600px;
   height: 80px;
-  border: 1px solid #572d07;
-  background-color: rgb(247, 208, 150);
+  //border: 1px solid #572d07;
+  //background-color: rgb(235, 235, 235);
 }
 
 /* TODO: Add property:value pairs to set the width and height of the footer element. Give it a background color. add a border, and center its text.
@@ -43,27 +43,27 @@ footer {
 	margin: 50px auto;
   width: 600px;
   height: 35px;
-  border: 1px solid #572d07;
-  background-color: rgb(247, 208, 150);
+  //border: 1px solid #572d07;
+  //background-color: rgb(235, 235, 235);
 }
 
 /* TODO: Add property:value pairs to set the width and height of the section element. Give it a background color. You may need to set it's top margin to create some space between the beginning of the main section and the end of the navigation bar. Look at the index.html to see what the section element creates on the page*/
 section {
   width: 940px;
   height: 900px;
-  border: 1px solid #572d07;
-  background-color: rgb(255, 224, 166);
+  //border: 1px solid #572d07;
+  //background-color: rgb(212, 212, 212);
 }
 
 
 /* This code styles your navigation bar. It works as is but feel free to change anything you'd like. Multiple tag selectors mean tags within tags.   */
-nav {
+/*nav {
 	width: 940px;
 	height: 50px;
 	float: left;
 	font-family: Georgia,serif;
-	border: 1px solid #572d07;
-	background-color: rgb(247, 240, 222);
+	//border: 1px solid #572d07;
+	//background-color: rgb(212, 212, 212);
 }
 
 nav ul {
@@ -79,16 +79,16 @@ nav li {
 nav li a {
 	float: left;
 	text-align: center;
-	border-right: 2px solid #572d07;
+	//border-right: 2px solid #572d07;
   width: 280px;  
   font-size: 14px; 
 	padding: 0px 10px;
-	color: rgb(90, 19, 19);
+	//color: rgb(90, 19, 19);
 	text-decoration: none;
 }
 
 nav li a:hover {
-	color: rgb(255, 166, 0);
+	//color: rgb(121, 121, 121);
 }
 
 
